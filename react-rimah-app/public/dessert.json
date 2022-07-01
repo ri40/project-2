@@ -1,0 +1,101 @@
+{
+  "results": [
+    {
+      "id": 639177,
+      "title": "Chocolate Pudding - Rave Diet",
+      "readyInMinutes": 45,
+      "servings": 3,
+      "sourceUrl": "https://www.foodista.com/recipe/MFW2SBXZ/chocolate-pudding-recipe-rave-diet",
+      "openLicense": 2,
+      "image": "Chocolate-Pudding---Rave-Diet-639177.jpg"
+    },
+    {
+      "id": 664452,
+      "title": "Vegan Mango Chia seed Mango Coconut Ice Pops",
+      "readyInMinutes": 45,
+      "servings": 6,
+      "sourceUrl": "https://www.foodista.com/recipe/ZWMQQBVV/vegan-mango-chia-seed-mango-coconut-ice-pops",
+      "openLicense": 2,
+      "image": "Vegan-Mango-Chia-seed-Mango-Coconut-Ice-Pops-664452.jpg"
+    },
+    {
+      "id": 643612,
+      "title": "Fresh Strawberry Rhubarb Compote Dessert",
+      "readyInMinutes": 15,
+      "servings": 6,
+      "sourceUrl": "http://www.foodista.com/recipe/WCXS73HF/fresh-strawberry-rhubarb-compote",
+      "openLicense": 2,
+      "image": "Fresh-Strawberry-Rhubarb-Compote-643612.jpg"
+    },
+    {
+      "id": 639020,
+      "title": "Chocolate Explosion Cookies",
+      "readyInMinutes": 45,
+      "servings": 6,
+      "sourceUrl": "https://www.foodista.com/recipe/DTDGVMFL/chocolate-explosion-cookies",
+      "openLicense": 2,
+      "image": "Chocolate-Explosion-Cookies-639020.jpg"
+    },
+    {
+      "id": 633039,
+      "title": "Aunt Ivy’s Raw Macadamia and Goji Berry Cookies",
+      "readyInMinutes": 45,
+      "servings": 4,
+      "sourceUrl": "https://www.foodista.com/recipe/7286K8PR/aunt-ivys-raw-macadamia-and-goji-berry-cookies",
+      "openLicense": 2,
+      "image": "Aunt-Ivys-Raw-Macadamia-and-Goji-Berry-Cookies-633039.jpg"
+    },
+    {
+      "id": 664473,
+      "title": "Vegan Peanut Butter Chocolate Fudge",
+      "readyInMinutes": 45,
+      "servings": 6,
+      "sourceUrl": "https://www.foodista.com/recipe/QJR5QH5F/vegan-peanut-butter-chocolate-fudge",
+      "openLicense": 2,
+      "image": "Vegan-Peanut-Butter-Chocolate-Fudge-664473.jpg"
+    },
+    {
+      "id": 637095,
+      "title": "Cardamon Infused Black Rice Pudding with Coconut Milk",
+      "readyInMinutes": 45,
+      "servings": 4,
+      "sourceUrl": "https://www.foodista.com/recipe/PQMPK3Y5/cardamon-infused-black-rice-pudding-with-coconut-milk",
+      "openLicense": 2,
+      "image": "Cardamon-Infused-Black-Rice-Pudding-with-Coconut-Milk-637095.jpg"
+    },
+    {
+      "id": 650499,
+      "title": "Lychee Granita",
+      "readyInMinutes": 45,
+      "servings": 4,
+      "sourceUrl": "https://www.foodista.com/recipe/DQYGPVV7/lychee-granita",
+      "openLicense": 2,
+      "image": "Lychee-Granita-650499.jpg"
+    },
+    {
+      "id": 655178,
+      "title": "Peach-Ginger Sorbet",
+      "readyInMinutes": 45,
+      "servings": 6,
+      "sourceUrl": "https://www.foodista.com/recipe/8YNMGFP4/peach-ginger-sorbet",
+      "openLicense": 2,
+      "image": "Peach-Ginger-Sorbet-655178.jpg"
+    },
+    {
+      "id": 662208,
+      "title": "Summer Berry Pudding",
+      "readyInMinutes": 45,
+      "servings": 8,
+      "sourceUrl": "https://www.foodista.com/recipe/DRNMJTGY/summer-berry-pudding",
+      "openLicense": 2,
+      "image": "Summer-Berry-Pudding-662208.jpg"
+    }
+  ],
+  "baseUri": "https://spoonacular.com/recipeImages/",
+  "offset": 0,
+  "number": 10,
+  "totalResults": 15,
+  "processingTimeMs": 30,
+  "expires": 1656758659742,
+  "isStale": false
+}
